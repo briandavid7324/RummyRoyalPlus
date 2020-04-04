@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RummyRoyalPlus", "RummyRoyalPlus\RummyRoyalPlus.csproj", "{C95D846E-485D-47B3-8994-9D5AE4D64995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95D846E-485D-47B3-8994-9D5AE4D64995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95D846E-485D-47B3-8994-9D5AE4D64995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95D846E-485D-47B3-8994-9D5AE4D64995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95D846E-485D-47B3-8994-9D5AE4D64995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862F4A58-3349-45C3-A2D2-4EF255960DCD}
+	EndGlobalSection
+EndGlobal
